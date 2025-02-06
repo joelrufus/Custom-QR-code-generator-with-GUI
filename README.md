@@ -1,15 +1,14 @@
 
 # QR Code Generator
 
-A modern and customizable QR Code Generator with a PyQt5-based GUI. This application allows you to generate QR codes with custom colors, logos, and transparency settings.
+A customizable QR Code Generator with a PyQt5-based GUI. This application allows you to generate QR codes with custom colors, logos, and transparency settings.
 
 
 ## Features
 - 🎨 **Custom QR Code Colors**: Choose any color for the QR code and background.
 - 🏷️ **Logo Embedding**: Add a logo to the center of the QR code.
 - 🔍 **Transparency Control**: Adjust the transparency of the QR code over the logo.
-- ⚠️ **High-Contrast Warnings**: Get warnings if the color combination might make the QR code unscannable.
-- 📦 **Executable Build**: Easily create a standalone executable for Windows, macOS, or Linux.
+  
 
 ## Installation
 
@@ -61,10 +60,7 @@ Contributions are welcome! To contribute:
 3. Submit a pull request.
 
 
-## Acknowledgments
-- Built with [PyQt5](https://www.riverbankcomputing.com/software/pyqt/) for the GUI.
-- QR Code generation powered by [qrcode](https://github.com/lincolnloop/python-qrcode).
-- Inspired by modern UI design principles.
+
 
 ---
 
